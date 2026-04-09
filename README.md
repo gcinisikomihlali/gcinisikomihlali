@@ -1,4 +1,4 @@
-## Hi , I'm Mihlali 👋
+## Mihlali Gcinisiko
 
  Information Communication Technology in Application Development in [Cape Peninsula University of Technology](https://www.cput.ac.za/mycput)<br/>
 
@@ -13,5 +13,31 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gcinisikomihlali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+🎓 Education
+Institution	Qualification	Year
+Cape Peninsula University of Technology	DIP: ICT in Applications Development	3rd Year (Current)
+Sarepta Secondary School	NSC Bachelors Pass	2022
+💻 Technical Skills
+Category	Technologies
+Programming Languages	Java, Python
+Web Development	HTML, CSS, JavaScript
+🚀 What I'm currently learning
+☕ Spring Boot – Building REST APIs with Java
+
+🎨 React.js – Modern frontend frameworks
+
+🔧 Design Patterns – Writing cleaner, scalable code
+
+🐳 Docker – Containerization basics
+
+
+
+📫 Connect With Me
+GitHub    LinkedIn    Outlook    WhatsApp
+
+---
+Open to WIL Junior Developer opportunities | Available for immediate placement
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
