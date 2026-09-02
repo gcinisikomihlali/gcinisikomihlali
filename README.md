@@ -46,7 +46,7 @@ Beyond application development, I'm especially drawn to:
 
 ### 📜 Certifications
 
-- **Gppgle** — [Crash Course on Python](https://coursera.org/share/76c07a7e11a67f0083767b5a62c7e8a3) *(Coursera)*
+- **Google** — [Crash Course on Python](https://coursera.org/share/76c07a7e11a67f0083767b5a62c7e8a3) *(Coursera)*
 -  **IBM** — [Cybersecurity Analyst](https://coursera.org/share/6f6be702f287944066cf74a19c51cdb4) *(Coursera)*
 
 ---
