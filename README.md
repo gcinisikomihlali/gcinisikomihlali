@@ -1,69 +1,77 @@
-# Mihlali Gcinisiko
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi, I'm Gcinisiko Mihlali 👋</h1>
 
-## Brief Introduction
-I am a student seeking a WIL position in technology and have a dedication to solving complex problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Application+Development;Turning+problems+into+solutions;Java+%7C+Python+%7C+JavaScript+%7C+MySQL;Currently+seeking+a+WIL+placement+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-## Objective
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gcinisikomihlali&style=flat-square&color=2E86DE" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20WIL%20Opportunities-2E86DE?style=flat-square" alt="Open to WIL" />
+</p>
 
+---
 
-I'm an IT student specializing in Application Development with a strong interest in Networking, Software Development, Cybersecurity, Machine Learning and Data Analysis. I am deeply enjoying solving problems by finding solutions in every aspect and that makes me learn new things including new technologies. My skills include Java, Python, JavaScript, CSS, My SQL and Linux Operating System. I am looking forward to expand my skills and knowledge and more into getting opportunities to grow my skills.
+### 🧭 About Me
 
-## Education
+I'm a 3rd-year IT student specialising in **Application Development**, currently seeking a **Work Integrated Learning (WIL)** position in tech. I have a genuine dedication to solving complex problems — I enjoy digging into a challenge from every angle, and that process is usually how I end up learning a new tool, language, or way of thinking.
 
+Beyond application development, I'm especially drawn to:
 
-| Institution                                         | Qualification         |   Year  |
-|-----------------------------------------------|----------------------------|-----------
-| Cape Peninsula University of Technology         | Dip: ICT in Application Development|  3rd Year  (current year) |
-| IBM | <a href="https://google.com](https://coursera.org/share/6f6be702f287944066cf74a19c51cdb4">Cybersecurity Analyst</a>|    2024 |
-| Google         | <a href= "https://coursera.org/share/76c07a7e11a67f0083767b5a62c7e8a3"> Crash Course on Python </a> |  2023  |
-| Khanyolwethu Secondary School     | NCS Bachelors Pass|  2021  |
+- 🌐 **Networking**
+- 💻 **Software Development**
+- 🔐 **Cybersecurity**
+- 🤖 **Machine Learning**
+- 📊 **Data Analysis**
 
+---
 
-## Technical Skills
+### 🛠️ Tech Stack
 
-### Programming Languages
- <div>
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
-     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    
-   
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### Web development
-<div>
-    
- <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
-</div>
+---
 
-### Database
-<div>
-    <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=MySQL&logoColor=white" />
- 
-</div>
+### 🎓 Education
 
-### Frameworks
+| Institution | Qualification | Year |
+|---|---|---|
+| Cape Peninsula University of Technology | Dip: ICT in Application Development | 3rd Year (current) |
 
-<div>
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white" />
-  
-</div>
+### 📜 Certifications
 
+- **IBM** — [Crash Course on Python](https://coursera.org/share/76c07a7e11a67f0083767b5a62c7e8a3) *(Coursera)*
 
+---
 
-## Certifications
+### 📈 GitHub Stats
 
-<div>
-    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EF3B2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20Certified%20Machine%20Learning-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AI%20and%20Sustainability-00A86B?&style=for-the-badge&logo=OpenAI&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybersecurity-1E90FF?&style=for-the-badge&logo=CyberDefenders&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybersecurity%20Analyst-4B0082?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Crash%20on%20Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gcinisikomihlali&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcinisikomihlali&layout=compact&hide_border=true" />
+</p>
 
-## Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gcinisikomihlali&hide_border=true" alt="GitHub Streak" />
+</p>
 
-- Test Project
+---
+
+### 🚀 Currently
+
+- 🔭 Working on Application Development projects as part of my Diploma
+- 🌱 Deepening my skills in Networking, Cybersecurity, and Data Analysis
+- 🤝 Looking forward to a **WIL opportunity** where I can apply and grow these skills
+- ⚡ Fun fact: I enjoy learning new technologies simply as a side effect of chasing down a good problem
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — always happy to connect and collaborate!</i>
+</p>
