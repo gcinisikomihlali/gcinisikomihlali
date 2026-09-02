@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gcinisiko Mihlali 👋</h1>
+<h1 align="center">Hi, I'm  Mihlali Gcinisiko 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Application+Development;Turning+problems+into+solutions;Java+%7C+Python+%7C+JavaScript+%7C+MySQL;Currently+seeking+a+WIL+placement+%F0%9F%9A%80" alt="Typing SVG" />
@@ -46,7 +46,8 @@ Beyond application development, I'm especially drawn to:
 
 ### 📜 Certifications
 
-- **IBM** — [Crash Course on Python](https://coursera.org/share/76c07a7e11a67f0083767b5a62c7e8a3) *(Coursera)*
+- **Gppgle** — [Crash Course on Python](https://coursera.org/share/76c07a7e11a67f0083767b5a62c7e8a3) *(Coursera)*
+-  **IBM** — [Cybersecurity Analyst](https://coursera.org/share/6f6be702f287944066cf74a19c51cdb4) *(Coursera)*
 
 ---
 
